@@ -19,7 +19,7 @@ Welcome to my Github page!
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
 - <img align="left" alt="PyTorch" width="22px" src="pytorch.png" />  **PyTorch**
 - <img align="left" alt="TensorFlow" width="22px" src="tensorflow.png" />  **TensorFlow**
-- <img align="left" alt="PyTorch" width="30px" src="sql.png" />  **SQL**
+- <img align="left" alt="PyTorch" width="40px" src="sql.png" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Apache Spark" width="40px" src="spark.png" /> **Apache Spark**
 - <img align="left" alt="Google Colab" width="22px" src="colab.png" /> **Google Colab**
