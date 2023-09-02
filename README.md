@@ -1,6 +1,6 @@
 <h3 align="center">
 Hi there👋
-    
+---    
 <br>
 Welcome to my Github page!
 </h3>
