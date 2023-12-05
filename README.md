@@ -7,7 +7,7 @@ Welcome to my Github page!
 </h3>
 
 - 💻 I'm a Machine Learning Engineer/Data scientist who loves learning, developing software, and working on AI projects.
-- 📖 My fields of interest are Machine Learning, Data Science, Deep Learning, etc.
+- 📖 My fields of interest are Artficial Intelligence , Machine Learning, etc.
 
 
 ### 💼 Technical Skills
